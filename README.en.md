@@ -1,42 +1,30 @@
 # Dmitry Vetlov
+**+7 (995) 659-27-70 | vetl-off@mail.ru**
 
-[comment]: <> (**+7 &#40;960&#41; 697-55-20 | shoytov@gmail.com**)
+Junior+ Frontend Developer (experience from 2019).    
 
-[comment]: <> (Senior Software Engineer &#40;experience from 2004&#41;.    )
+I specialize in **frontend development**.
 
-[comment]: <> (I specialize in **backend development**.)
+Current main language - **Java Script**.    
+General frameworks: **Vue**    
+Skills in DBMS: **MySql**       
+In my work I used: **Vuex, Nuxt, WS, SSE.**
 
-[comment]: <> (Current main language - **Python**.    )
+Developed frontend of desktop applications, web projects of different complexity and different load level.
 
-[comment]: <> (General frameworks: **Django, Flask**    )
+Also I have experience in: **Webpack, Gulp**   
+Additional skills: **Linux, Git, Docker**
+____
 
-[comment]: <> (Skills in DBMS: **PostgreSQL, MongoDB, MySql**       )
+Was born on 18.06.1998   
+In 2020 she graduated from the Faculty of Informatics, Accounting and Service of the Baikal State University.
+Current location - Moscow.   
 
-[comment]: <> (In my work I used: **Redis, RabbitMQ.**)
+Proactive, responsible, purposeful, neat, frivolous, easily trained, sociable, I am passionate about my profession!
+____
 
-[comment]: <> (Developed backend of mobile applications, web projects of different complexity and different load level.)
-
-[comment]: <> (Also I have experience in: **PHP, JavaScript**   )
-
-[comment]: <> (Additional skills: **Linux, Git, Docker**)
-
-[comment]: <> (____)
-
-[comment]: <> (Was born on 18.04.1986   )
-
-[comment]: <> (I graduated from Kursk State University the Faculty of computer science in 2008.   )
-
-[comment]: <> (Current location - Kursk.   )
-
-[comment]: <> (Initiative, responsible, determined, accurate, easy-going, easy-educated.   )
-
-[comment]: <> (If it is necessary to kill or to tame a dragon - show me the dragon, I'll do that ;&#41;)
-
-[comment]: <> (____)
-
-[comment]: <> (## Work experience)
-
-[comment]: <> (ОТСЮДА  )
+- *December 2020 — till now*   
+  `Reelmotion games`  
 **Duties:**   
 -- designing the logic of communication between components;   
 -- data processing API (REST);   
@@ -63,272 +51,54 @@ Frontend developer
 
 ___
 
-[comment]: <> (## Portfolio*)
+## Portfolio*
 
-[comment]: <> (- Microservice for Kursk State University. Provide information about faculties, chairs and etc.   )
+Reelmotion games
 
-[comment]: <> (https://guide.kursksu.ru/         )
+- Game admin portal.
 
-[comment]: <> (**Stack:** `Django + PostgreSQL + DjangoRestFramework`   )
+**Stack:** `HTML + CSS + JS + Vue + Vuex + Nuxt + Webpack`
 
-[comment]: <> (Development REST API.)
+Lineischik
 
-[comment]: <> (- The Single Sign On service of Kursk State Universiry based on OAuth 2.0.   )
+- Corporate website.   
 
-[comment]: <> (https://sso.kursksu.ru/         )
+http://lineischik.ru/        
 
-[comment]: <> (**Stack:** `Django + PostgreSQL + DjangoRestFramework`   )
+**Stack:** `HTML + CSS + JS + jQuery + Gulp`   
 
-[comment]: <> (Development REST API.)
+Baikal Wood Hotel.
 
-[comment]: <> (- Django package for KSU SSO service   )
+- Corporate website.   
 
-[comment]: <> (https://gitlab.com/shoytov/sso_auth   )
+https://baikalwoodhotel.ru/         
 
-[comment]: <> (**Stack:** `Django`      )
+**Stack:** `HTML + CSS + JS + jQuery + Gulp`   
 
-[comment]: <> (Development the client for SSO KSU service &#40;Django package&#41;    )
+My business.
 
-[comment]: <> (- The online shop for LTD "Composit"    )
+- Informational portal.   
 
-[comment]: <> (https://composit-tracks.ru/   )
+https://mb38.ru/   
 
-[comment]: <> (Online shop   )
+**Stack:** `HTML + CSS + JS + jQuery + Gulp`      
 
-[comment]: <> (**Stack:** `Django + PostgreSQL / HTML + CSS + JavaScript`  )
+Easy-test    
 
-[comment]: <> (Backend development, base frontend functions development.)
+- Testing students from Easy School (https://e-a-s-y.ru/)    
 
-[comment]: <> (- The Landing Page for LTD "Composit"   )
+http://easy-test.tw1.ru/  
 
-[comment]: <> (https://composit-tracks.com/   )
+Online test   
 
-[comment]: <> (Landing page for foreign buyers.   )
+**Stack:** `HTML + CSS + JS + jQuery + Gulp`
 
-[comment]: <> (**Stack:** `Django + MySql / HTML + CSS + JavaScript`  )
+___
 
-[comment]: <> (Backend development, base frontend functions development.)
+## Links
 
-[comment]: <> (- The site for LTD "Vityazi"   )
+https://career.habr.com/vetl-off0098
 
-[comment]: <> (http://vityazi-kursk.ru/)
+https://github.com/Vetl-off0098 
 
-[comment]: <> (Basic site for school of martial art   )
-
-[comment]: <> (**Stack:** `Django + PostgreSQL / HTML + CSS + JavaScript`   )
-
-[comment]: <> (Backend development, base frontend functions development.)
-
-[comment]: <> (- The Web service for the voting of the members of the scientific council   )
-
-[comment]: <> (https://vote.kursksu.ru/   )
-
-[comment]: <> (Voting service based on JWT for authorization.   )
-
-[comment]: <> (**Stack:** `Django + PostgreSQL / HTML + CSS + JavaScript`   )
-
-[comment]: <> (Backend development, base frontend functions development.)
-
-[comment]: <> (- The Service for receiving scientific work digest for RINC   )
-
-[comment]: <> (https://rinc.kursksu.ru/    )
-
-[comment]: <> (Service for receiving scientific work digest for RINC from KSU staff.   )
-
-[comment]: <> (**Stack:** `Django + PostgreSQL / HTML + CSS`   )
-
-[comment]: <> (Backend development.)
-
-[comment]: <> (- The service of testing State Exam. Project of KSU    )
-
-[comment]: <> (https://ege.kursksu.ru/   )
-
-[comment]: <> (Project for testing schools student's knowledge.   )
-
-[comment]: <> (**Stack:** `Django + PostgreSQL / HTML + CSS`   )
-
-[comment]: <> (Backend development.)
-
-[comment]: <> (- The site of the Russian olympics in PE 2020   )
-
-[comment]: <> (https://olymp.kursksu.ru/   )
-
-[comment]: <> (**Stack:** `Django + PostgreSQL / HTML + CSS + JavaScript`   )
-
-[comment]: <> (Backend development, base frontend functions development.)
-
-[comment]: <> (- The service of analysing the date of graduates of KSU    )
-
-[comment]: <> (https://analys.kursksu.ru/   )
-
-[comment]: <> (Analysing the date of graduates of KSU and make reports   )
-
-[comment]: <> (**Stack:** `Django + PostgreSQL / HTML + CSS + JavaScript`   )
-
-[comment]: <> (Backend development, base frontend functions development.)
-
-[comment]: <> (- The service of analysing the date of questionnaires on drugs   )
-
-[comment]: <> (https://narko-test.kursksu.ru/      )
-
-[comment]: <> (**Stack:** `Flask + MongoDB / HTML + CSS + JavaScript`   )
-
-[comment]: <> (Backend development, base frontend functions development.)
-
-[comment]: <> (- The online catalogue of a shop of plumbing    )
-
-[comment]: <> (http://santehnika-km.ru/   )
-
-[comment]: <> (**Stack:** `Django + PostgreSQL / HTML + CSS + JavaScript`   )
-
-[comment]: <> (Backend development, base frontend functions development.)
-
-[comment]: <> (- The API service of scientific magazines of KSU   )
-
-[comment]: <> (https://api-mag.kursksu.ru/   )
-
-[comment]: <> (Base service for all scientific magazines of KSU   )
-
-[comment]: <> (**Stack:** `Django + MySql`  )
-
-[comment]: <> (Backend development, API)
-
-[comment]: <> (- The Web client for the scientific magazine "Scientific notes"    )
-
-[comment]: <> (http://scientific-notes.ru   )
-
-[comment]: <> (Web client for api-mag.kursksu.ru    )
-
-[comment]: <> (**Stack:** `HTML + CSS + JavaScript`  )
-
-[comment]: <> (JavaScript development)
-
-[comment]: <> (- The Web client for the scientific magazine "Scientific search"   )
-
-[comment]: <> (https://scientific-search.kursksu.ru   )
-
-[comment]: <> (Web client for api-mag.kursksu.ru   )
-
-[comment]: <> (**Stack:** `HTML + CSS + JavaScript`  )
-
-[comment]: <> (JavaScript development)
-
-[comment]: <> (- The Web client for the scientific magazine "TL AND IC"   )
-
-[comment]: <> (https://tl-ic.kursksu.ru   )
-
-[comment]: <> (Web client for api-mag.kursksu.ru   )
-
-[comment]: <> (**Stack:** `HTML + CSS + JavaScript`  )
-
-[comment]: <> (JavaScript development)
-
-[comment]: <> (- The Web client for the scientific magazine "Economprav"   )
-
-[comment]: <> (https://economprav.ru   )
-
-[comment]: <> (Web client for api-mag.kursksu.ru   )
-
-[comment]: <> (**Stack:** `HTML + CSS + JavaScript`  )
-
-[comment]: <> (JavaScript development)
-
-[comment]: <> (- The Web client for the scientific magazine "Auditorium"   )
-
-[comment]: <> (https://auditorium.kursksu.ru   )
-
-[comment]: <> (Web client for api-mag.kursksu.ru   )
-
-[comment]: <> (**Stack:** `HTML + CSS + JavaScript`  )
-
-[comment]: <> (JavaScript development)
-
-[comment]: <> (- The Web client for the scientific magazine "Ipp"   )
-
-[comment]: <> (https://ipp.kursksu.ru   )
-
-[comment]: <> (Web client for api-mag.kursksu.ru   )
-
-[comment]: <> (**Stack:** `HTML + CSS + JavaScript`  )
-
-[comment]: <> (JavaScript development)
-
-[comment]: <> (- The service for an entrants    )
-
-[comment]: <> (https://calc.kursksu.ru/   )
-
-[comment]: <> (Selection of specialties for admission when choosing the exams that the applicant takes.   )
-
-[comment]: <> (**Stack:** `Flask + MongoDB / HTML + CSS + JavaScript`  )
-
-[comment]: <> (Backend development, base frontend functions development.)
-
-[comment]: <> (- The site of school №18   )
-
-[comment]: <> (http://kursk-school18.ru/   )
-
-[comment]: <> (**Stack:** `WagtailCMS &#40;Django&#41; + PostgreSQL / HTML + CSS + JavaScript`   )
-
-[comment]: <> (Backend development, base frontend functions development.)
-
-[comment]: <> (- The service of preserving the notices of KSU in mass media   )
-
-[comment]: <> (https://massmedia.kursksu.ru/      )
-
-[comment]: <> (**Stack:** `Django + MySql / HTML + CSS + JavaScript`  )
-
-[comment]: <> (Backend development, base frontend functions development.)
-
-[comment]: <> (- The service of automatized generation of participants of the events   )
-
-[comment]: <> (https://cert.kursksu.ru/   )
-
-[comment]: <> (**Stack:** `Django + MySql / HTML + CSS + JavaScript`  )
-
-[comment]: <> (Backend development, base frontend functions development.)
-
-[comment]: <> (- The site of the olympics for school students in engineering    )
-
-[comment]: <> (https://chem-inzh-olymp.kursksu.ru/   )
-
-[comment]: <> (**Стек:** `Django + MySql / HTML + CSS + JavaScript`  )
-
-[comment]: <> (Backend development, base frontend functions development.)
-
-[comment]: <> (- The site of SHUB of KSU   )
-
-[comment]: <> (https://shub.kursksu.ru/   )
-
-[comment]: <> (**Стек:** `Django + MySql / HTML + CSS + JavaScript`  )
-
-[comment]: <> (Backend development, base frontend functions development.)
-
-[comment]: <> (- The service of photos of KSU   )
-
-[comment]: <> (https://img.kursksu.ru/   )
-
-[comment]: <> (**Стек:** `Django + MySql / HTML + CSS + JavaScript`  )
-
-[comment]: <> (Backend development, base frontend functions development.)
-
-[comment]: <> (*In the list there are only those projects which are witten in Python and JavaScript.  )
-
-[comment]: <> (___)
-
-[comment]: <> (## Certificates and others)
-
-[comment]: <> (Bronze certificate of Python of Mail.ru    )
-
-[comment]: <> (3.06.2019   )
-
-[comment]: <> (https://certification.mail.ru/certificates/82ffea16-3d74-4687-b540-c4369bae373b/?utm_source=Trigger_certification&utm_medium=Email&utm_campaign=Trigger_certification)
-
-[comment]: <> (___)
-
-[comment]: <> (## Links)
-
-[comment]: <> (https://www.linkedin.com/in/shoytov/   )
-
-[comment]: <> (https://github.com/Vetl-off0098 )
-
-[comment]: <> (https://stackoverflow.com/users/12808155/shoytov)
+https://t.me/Vetloff0018
